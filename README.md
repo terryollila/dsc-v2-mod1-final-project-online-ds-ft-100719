@@ -18,4 +18,4 @@ This file is an 8 slide Keynote presentation exported to PDF format, summarizing
 
 ### Non-Technical Video Presentation:
 
-[https://vimeo.com/371735959](King County Housing: Maximizing Value for Buyers, Builders, and Renovators)
+[King County Housing: Maximizing Value for Buyers, Builders, and Renovators](https://vimeo.com/371735959)
