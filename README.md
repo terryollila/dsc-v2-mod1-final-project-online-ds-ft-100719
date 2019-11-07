@@ -9,3 +9,13 @@ This file is where the code is kept for analyzing the King County data set.
 presentation.pdf
 
 This file is an 8 slide Keynote presentation exported to PDF format, summarizing the findings and conclusions of the King County analysis.
+
+### Additional Resources:
+
+#### Blog Post:
+
+[Homing in on Housing Investment in King County, WA](https://terryollila.github.io/homing_in_on_housing_investment_in_king_county_wa)
+
+### Non-Technical Video Presentation:
+
+[https://vimeo.com/371735959](King County Housing: Maximizing Value for Buyers, Builders, and Renovators)
