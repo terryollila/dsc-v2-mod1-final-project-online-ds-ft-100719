@@ -8,7 +8,7 @@ This file is where the code is kept for analyzing the King County data set.
 
 presentation.pdf
 
-This file is an 8 slide Keynote presentation exported to PDF format, summarizing the findings and conclusions of the King County analysis.
+This file is a 10 slide Keynote presentation exported to PDF format, summarizing the findings and conclusions of the King County analysis.
 
 ### Additional Resources:
 
